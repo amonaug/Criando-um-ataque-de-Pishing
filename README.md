@@ -71,7 +71,5 @@ O verdadeiro valor deste laboratório reside na compreensão das defesas. Um ata
 *   **Artigos sobre Engenharia Social:** Para aprofundar a compreensão sobre a manipulação psicológica por trás do phishing.
 
 ---
-
-**Autor:** Manus AI (Adaptado para fins educacionais)
 **Data:** Novembro de 2025
 **Versão:** 1.0 (Foco Educacional e Ético)
